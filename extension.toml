@@ -1,0 +1,7 @@
+id = "mthierman"
+name = "mthierman"
+version = "0.0.1"
+schema_version = 1
+authors = ["mthierman"]
+description = "Modified themes"
+repository = "https://github.com/your-name/my-zed-extension"
