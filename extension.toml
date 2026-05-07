@@ -1,7 +1,7 @@
-id = "mthierman"
-name = "mthierman"
-version = "0.0.1"
+id = "flexoki"
+name = "flexoki"
+version = "0.0.0"
 schema_version = 1
 authors = ["mthierman"]
-description = "Modified themes"
-repository = "https://github.com/your-name/my-zed-extension"
+description = "Flexoki theme for Zed"
+repository = "https://github.com/mthierman/Flexoki"
